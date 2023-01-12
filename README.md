@@ -1,3 +1,3 @@
-# Datenanlyse des VD17 
-Naturwissenschaften und Technik im VD17: Studierende der FernUni Hagen lernen Python
+# Naturwissenschaften und Technik VD17 
+Studierende der FernUni Hagen lernen Datenalyse in Python
 
