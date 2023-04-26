@@ -1,3 +1,0 @@
-wget -q -O VD17.csv https://bit.ly/3Hl8Bsz
-pandas
-numpy
